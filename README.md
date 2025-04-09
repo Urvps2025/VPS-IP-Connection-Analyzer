@@ -5,8 +5,10 @@ Script designed to monitor SSH connections to your server. Obtain information ab
 
 Installation 
 
-git clone https://github.com/Urvps2025/VPS-IP-Connection-Analyzer
+```git clone https://github.com/Urvps2025/VPS-IP-Connection-Analyzer```
 
-chmod +x Analyzer.sh
+```cd VPS-IP-Connection-Analyzer```
 
-./Analyzer.sh
+```chmod +x Analyzer.sh```
+
+```./Analyzer.sh```
